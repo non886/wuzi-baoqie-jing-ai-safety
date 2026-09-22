@@ -58,7 +58,7 @@ According to the DILA catalog and research published by 84000 (Toh 259), Chinese
 
 **3.1 The core principle**: "What you yourself do not desire, do not urge upon others — this is the one dharma that bodhisattvas should guard day and night."[cite: 2] This is a **golden-rule-style principle of reciprocity**[cite: 2]. Its significance lies in the fact that the Buddha does not enumerate prohibitions; he gives the **inner mechanism that generates all prohibitions** — the sūtra explicitly states that upholding this one dharma amounts to upholding the entire treasury of the Tathāgata's precepts[cite: 2].
 
-This claim — that one dharma subsumes all dharmas of restraint — presupposes the speaker's **samyak-saṃbuddhatā**, often expressed as *sarvajñatā* (omniscience, "knowledge of all"): as one who knows all phenomena, the Buddha can let a single principle cover every situation that calls for restraint; were the lawgiver's knowledge limited, a single principle could not guarantee coverage of all cases[cite: 2].
+This claim — that one dharma subsumes all dharmas of restraint — presupposes the speaker's state of supreme enlightenment (*samyak-saṃbodhi*) and omniscience (*sarvajñatā*): as one who knows all phenomena, the Buddha can let a single principle cover every situation that calls for restraint; were the lawgiver's knowledge limited, a single principle could not guarantee coverage of all cases[cite: 2].
 
 **3.2 The argument (two steps)**[cite: 2]
 - *Step one — from self-love to love of others (empirical derivation)*: The ground for not harming others requires no external authority; it extends from one's own already-present experience of cherishing oneself[cite: 2].
@@ -76,16 +76,16 @@ The same teaching appears in an expanded version in the *Mahāyāna* text *Dashe
 
 | # | Expanded sūtra passage | Wholesome action | Domain |
 | --- | --- | --- | --- |
-| 1 | Cherish one's life → do not kill | Abstain from killing | Body |
-| 2 | Cherish one's wealth → do not steal | Abstain from stealing | Body |
-| 3 | Cherish one's wife → do not violate others' wives | Abstain from sexual misconduct | Body |
-| 4 | Cherish truthful speech → do not deceive | Abstain from false speech | Speech |
-| 5 | Cherish harmony → do not sow discord | Abstain from divisive speech | Speech |
-| 6 | Cherish uprightness → no devious/frivolous speech | Abstain from frivolous speech | Speech |
-| 7 | Cherish gentleness → no harsh words | Abstain from harsh speech | Speech |
-| 8 | Cherish contentment → no greed toward others | Abstain from covetousness | Mind |
-| 9 | Cherish benevolence → no anger toward others | Abstain from ill will | Mind |
-| 10 | Cherish right views → do not teach wrong views | Abstain from wrong views | Mind |
+| 1 | Cherish one's life → do not kill | Abstain from killing | Physical (Body) |
+| 2 | Cherish one's wealth → do not steal | Abstain from stealing | Physical (Body) |
+| 3 | Cherish one's wife → do not violate others' wives | Abstain from sexual misconduct | Physical (Body) |
+| 4 | Cherish truthful speech → do not deceive | Abstain from false speech | Verbal (Speech) |
+| 5 | Cherish harmony → do not sow discord | Abstain from divisive speech | Verbal (Speech) |
+| 6 | Cherish uprightness → no devious/frivolous speech | Abstain from frivolous speech | Verbal (Speech) |
+| 7 | Cherish gentleness → no harsh words | Abstain from harsh speech | Verbal (Speech) |
+| 8 | Cherish contentment → no greed toward others | Abstain from covetousness | Mental (Mind) |
+| 9 | Cherish benevolence → no anger toward others | Abstain from ill will | Mental (Mind) |
+| 10 | Cherish right views → do not teach wrong views | Abstain from wrong views | Mental (Mind) |
 
 **Significance**: "One dharma subsumes all precepts" is a concrete demonstration — a single principle running through the three domains of **action (body), speech, and motivation/belief (mind)**[cite: 2].
 
@@ -103,9 +103,9 @@ The same teaching appears in an expanded version in the *Mahāyāna* text *Dashe
 
 | Domain | Wholesome actions | Corresponding contemporary AI risks |
 | --- | --- | --- |
-| Body / action | No killing, stealing, misconduct | Physical harm, theft of assets/information, privacy violation |
-| Speech | No false, divisive, frivolous, or harsh speech | Deceptive alignment, sowing discord and information manipulation, harmful generated content |
-| Mind / motivation | No greed, ill will, wrong views | Goal misgeneralization, biased harm against particular groups, amplifying false beliefs / cognitive manipulation |
+| Physical (Body) | No killing, stealing, misconduct | Physical harm, theft of assets/information, privacy violation |
+| Verbal (Speech) | No false, divisive, frivolous, or harsh speech | Deceptive alignment, sowing discord and information manipulation, harmful generated content |
+| Mental (Mind) | No greed, ill will, wrong views | Goal misgeneralization, biased harm against particular groups, amplifying false beliefs / cognitive manipulation |
 
 ---
 
