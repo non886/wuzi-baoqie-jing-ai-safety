@@ -22,7 +22,7 @@
 
 1. **機制導向**：此原則是黃金法則式的互惠倫理，其價值在於生成規範的機制，而非靜態規範清單[cite: 3]；
 2. **三層對應**：平行經文《大乘遍照光明藏無字法門經》（T829）將其擴展為對應「十善業道」的十項，涵蓋身、口、意三層——結構上類似一張行為、語言、動機三層的 AI 風險清單[cite: 3]；
-3. **對 AI 安全的啟示**：以可推廣的深層原則取代無窮的列舉式禁令（對應 Value Learning 思路）[cite: 3]；
+3. **對 AI 安全的啟示**：以可推廣的深層原則取代無窮的列舉式禁令（對應 Value Learning 與 Constitutional AI 憲法 AI 思路）[cite: 3]；
 4. **局限性**：AI 無「己」故原則必須轉譯為「人類所不欲承受者，勿使施加於人」；偏好歧異需鎖定共通底線；能力規模與治理問題非倫理原則所能涵蓋[cite: 3]。
 
 ### English Abstract
@@ -30,8 +30,8 @@ In the *Fo shuo Wuzi Baoqie Jing* (T17 no. 828; Toh 259; Sanskrit: *Āryānakṣ
 
 1. **Mechanism over list**: Its primary value lies in being an inner mechanism that generates norms rather than a static list of prohibitions[cite: 3].
 2. **Three-layer structure**: The parallel text (T829) maps the principle onto the ten wholesome actions across physical, verbal, and mental domains, functioning as a three-layer AI risk map[cite: 3].
-3. **Implications for AI alignment**: It suggests moving from endless enumerative blocklists toward generalizable deep value learning[cite: 3].
-4. **Limitations**: Since AI lacks a "self", it must be translated into "what humans do not wish to endure, do not cause AI to impose upon them."[cite: 3] Systemic capability scaling and governance fall outside the scope of a single ethical principle[cite: 3].
+3. **Implications for AI alignment**: It suggests moving from endless enumerative blocklists toward generalizable deep value learning and Constitutional AI (CAI)[cite: 3].
+4. **Limitations**: Since AI lacks a "self", it must be translated into "what humans do not wish to endure, do not cause AI systems to impose upon them."[cite: 3] Systemic capability scaling and governance fall outside the scope of a single ethical principle[cite: 3].
 
 ---
 
@@ -45,8 +45,8 @@ In the *Fo shuo Wuzi Baoqie Jing* (T17 no. 828; Toh 259; Sanskrit: *Āryānakṣ
 
 ## Keywords / 關鍵字
 
-AI safety / AI alignment / Value Learning / Golden Rule / Wuzi Baoqie Jing / Ten Wholesome Actions / Buddhist Ethics / Toh 259 / Or.15010
-AI 安全 / AI 對齊 / 價值對齊 / 黃金法則 / 無字寶篋經 / 十善業 / 佛教倫理 / 梵文殘片[cite: 3]
+AI safety / AI alignment / Value Learning / Constitutional AI / Golden Rule / Wuzi Baoqie Jing / Ten Wholesome Actions / Buddhist Ethics / Toh 259 / Or.15010
+AI 安全 / AI 對齊 / 價值對齊 / 憲法 AI / 黃金法則 / 無字寶篋經 / 十善業 / 佛教倫理 / 梵文殘片[cite: 3]
 
 ---
 
