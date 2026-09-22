@@ -29,7 +29,7 @@
 In the *Fo shuo Wuzi Baoqie Jing* (T17 no. 828; Toh 259; Sanskrit: *Āryānakṣarakaraṇḍakavairocanagarbha-nāma-mahāyānasūtra*), the Buddha delivers a single master principle guarded day and night by bodhisattvas: *"what you yourself do not desire, do not urge upon others."*[cite: 2, 3] Incorporating philological research from DILA and 84000 (including surviving Sanskrit fragments in British Library Or.15010), this essay examines its application to contemporary AI safety[cite: 3]:
 
 1. **Mechanism over list**: Its primary value lies in being an inner mechanism that generates norms rather than a static list of prohibitions[cite: 3].
-2. **Three-layer structure**: The parallel text (T829) maps the principle onto the ten wholesome actions across body, speech, and mind, functioning as a three-layer AI risk map[cite: 3].
+2. **Three-layer structure**: The parallel text (T829) maps the principle onto the ten wholesome actions across physical, verbal, and mental domains, functioning as a three-layer AI risk map[cite: 3].
 3. **Implications for AI alignment**: It suggests moving from endless enumerative blocklists toward generalizable deep value learning[cite: 3].
 4. **Limitations**: Since AI lacks a "self", it must be translated into "what humans do not wish to endure, do not cause AI to impose upon them."[cite: 3] Systemic capability scaling and governance fall outside the scope of a single ethical principle[cite: 3].
 
@@ -63,4 +63,4 @@ AI 安全 / AI 對齊 / 價值對齊 / 黃金法則 / 無字寶篋經 / 十善�
 作者（non886）。〈己所不欲，勿勸他人：《無字寶篋經》的菩薩戒總持原則與 AI 安全〉。GitHub repository[cite: 3].
 Author (non886). *"What You Yourself Do Not Desire, Do Not Urge Upon Others": The Bodhisattvas' Master Principle of Śīla in the Wuzi Baoqie Jing and Its Bearing on AI Safety*. GitHub repository.
 
-`URL: https://github.com/non886/wuzi-baoqie-jing-ai-safety/`[cite: 3]
+`URL: https://github.com/non886/wuzi-baoqie-jing-ai-safety/` [cite: 3]
