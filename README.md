@@ -11,7 +11,7 @@
 
 - [完整分析（中文正文）](essay.md) — Full Analysis (Chinese)[cite: 3]
 - [Full Analysis (English)](essay-en.md) — 英文版完整分析[cite: 3]
-- [授權條款 / License](LICENSE.md)[cite: 3]
+- [授權條款 / License](https://github.com/non886/wuzi-baoqie-jing-ai-safety/blob/main/LICENSE.md)
 
 ---
 
