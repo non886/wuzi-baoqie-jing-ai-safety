@@ -1,8 +1,16 @@
+---
+title: "\"What You Yourself Do Not Desire, Do Not Urge Upon Others\": The Bodhisattvas' Master Principle of Śīla in the Wuzi Baoqie Jing and Its Bearing on AI Safety"
+author: "non886"
+date: "2026-09-22"
+license: "CC-BY-4.0"
+tags: ["AI Safety", "Value Learning", "Constitutional AI", "Buddhist Ethics"]
+---
+
 # "What You Yourself Do Not Desire, Do Not Urge Upon Others": The Bodhisattvas' Master Principle of Śīla in the *Wuzi Baoqie Jing* and Its Bearing on AI Safety
 
 **Author**: (non886)[cite: 2]
 **Date**: 2026-09-22[cite: 2]
-**Version**: v1.2 (philologically revised edition)
+**Version**: v1.3 (philologically revised & Constitutional AI updated edition)
 **License**: CC BY 4.0 (see [LICENSE](LICENSE.md))[cite: 2]
 
 > This is the English version of the full corrected analysis[cite: 2]. The Chinese original is [essay.md](essay.md)[cite: 2].
@@ -97,7 +105,7 @@ The same teaching appears in an expanded version in the *Mahāyāna* text *Dashe
 
 **5.2 Implications for value learning**: Good alignment does not mean force-feeding a system an external list of rules, but enabling it to **recognize and internalize value cores already built into the human condition**, from which behavioral constraints are *derived*[cite: 2]. This is structurally isomorphic with modern **value learning**[cite: 2].
 
-**5.3 Master principles over rule lists**: In open worlds, enumerative rules always leave coverage gaps, while deep, generalizable principles generalize better[cite: 2].
+**5.3 Master principles over rule lists (A Philosophical Precursor to Constitutional AI)**: In open worlds, enumerative rules always leave coverage gaps, while deep, generalizable principles generalize better. This mirrors the methodology of **Constitutional AI (CAI)** in contemporary alignment research: utilizing a small set of high-level master principles (a constitution) to oversee and generate specific behavioral boundaries, rather than exhaustively hardcoding prohibited actions.
 
 **5.4 The ten-wholesome-actions structure as a three-layer risk map**[cite: 2]
 
@@ -128,7 +136,7 @@ The same teaching appears in an expanded version in the *Mahāyāna* text *Dashe
 
 ## 8. Conclusion
 
-> **A one-sentence reformulation for AI**: *What human beings do not wish to endure, do not cause to be imposed upon them; whatever the capability, guard this one resolve day and night.*[cite: 2]
+> **A one-sentence reformulation for AI**: *What human beings do not wish to endure, do not cause AI systems to impose upon them; whatever the capability, guard this one resolve day and night.*
 
 ---
 
