@@ -136,7 +136,7 @@ The same teaching appears in an expanded version in the *Mahāyāna* text *Dashe
 
 ## 8. Conclusion
 
-> **A one-sentence reformulation for AI**: *What human beings do not wish to endure, do not cause AI systems to impose upon them; whatever the capability, guard this one resolve day and night.*
+> **A one-sentence reformulation for AI**: *What human beings do not wish to endure, do not cause to be imposed upon them; whatever the capability, guard this one resolve day and night.*[cite: 2]
 
 ---
 
